@@ -1,4 +1,4 @@
-# ruralMOOCs
+# E-learning
 Online learning platform for students
 # Software Stack
 MongoDB
